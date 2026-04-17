@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float speed = 5;
+    public float speed = 5.0f;
     public Rigidbody2D rb;
 
 
